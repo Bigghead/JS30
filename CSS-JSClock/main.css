@@ -42,3 +42,11 @@ body{
   transform: rotate(90deg);
   transition: all 0.05s;
 }
+
+.second-hand{
+  height: 2px;
+}
+
+.hour-hand{
+  background: red;
+}
